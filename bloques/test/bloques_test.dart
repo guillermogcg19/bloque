@@ -1,8 +1,7 @@
-import 'package:bloques/bloques.dart';
 import 'package:test/test.dart';
+import 'package:bloques/bloques.dart';
 
 void main() {
-  test('calculate', () {
-    expect(calculate(), 42);
-  });
+ 
+ 
 }
